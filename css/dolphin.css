@@ -16,6 +16,7 @@ html {
   position: absolute;
   top: 400px;
   right: 0;
+  display: block;
 }
 
 /* Write your solution here */
